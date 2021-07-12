@@ -9,4 +9,4 @@ Here you will find a different "Node.js" file to be used in a doubly linked list
 Queues are based on Singly Linked List, so it is used to create the FIFO data sctucture.
 ## 4 Stack
 Stack are also based of Singly Linked List, so it is used to create the FILO data structure.
-"Web-Navigator" simlulates the history of a navigator. In the command line you write the page where you would like to go, write "b", to go to a previous page and "n" to go the the next page if there are any.
+"Web-Navigator.js" simlulates the history of a navigator. In the command line you write the page where you would like to go, write "b", to go back to a previous page and "n" to go the the next page if there are any.
